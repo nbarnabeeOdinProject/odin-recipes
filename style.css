@@ -1,0 +1,22 @@
+.yellow {
+  background-color: rgba(255, 237, 173, 1);
+}
+
+.red {
+  background-color: rgba(255, 113, 31, 1);
+}
+
+.purple {
+  background-color: rgba(145, 10, 255, 1);
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+
+div {
+  font-size: 20px;
+  font-family: Verdana, sans-serif; 
+}
+
